@@ -5,7 +5,7 @@ def my_superfunction():
 def main():
     print('Перевели строку текста')
     print('Все-таки переведем')
-    print('Again')
+    print('Третью тоже переводим')
     print('Переведена последняя строка программы')
     my_superfunction()
 
