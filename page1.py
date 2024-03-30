@@ -6,7 +6,7 @@ def main():
     print('Перевели строку текста')
     print('And I change it every day')
     print('Again')
-    print('UFO came and added this line')
+    print('Переведена последняя строка программы')
     my_superfunction()
 
 
