@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('What an awesome print!')
+    print('Привет всем!')
 
 
 def main():
@@ -7,7 +7,7 @@ def main():
     print('Все-таки переведем')
     print('Третью тоже переводим')
     print('Переведена последняя строка программы')
-    print('Кто-то что-то добавил)
+    print('Кто-то что-то добавил')
     my_superfunction()
 
 
