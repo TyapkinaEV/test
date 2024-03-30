@@ -1,6 +1,6 @@
 #tyapkinaev
 def my_superfunction():
-    print('What an awesome print!')
+    print('Привет всем!')
 
 
 def main():
